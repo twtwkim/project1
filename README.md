@@ -28,7 +28,7 @@ React(vite)를 활용한 프로젝트입니다.
 
 ## 2. Detail of Project
 ### 2-1. /main (메인페이지)
-https://github.com/twtwkim/project.React/assets/160206273/8ac7ee34-7cbc-460c-827d-93ea86dad652
+https://github.com/user-attachments/assets/03e08d2e-378c-4380-b3dd-ca4abb26ae69
 
 ### 2-2. /register (회원등록)
 https://github.com/twtwkim/project.React/assets/160206273/badfd426-f8c5-4e37-9fa2-be46f4c00a70
