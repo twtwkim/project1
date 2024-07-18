@@ -55,7 +55,7 @@ https://github.com/twtwkim/project.React/assets/160206273/eff0a5f1-f8a0-40b5-a63
 https://github.com/twtwkim/project.React/assets/160206273/16480e02-72ff-4f25-b5b9-d4df050af822
 
 ## 3. Future Improvements
-### 3-1. 각종 SNS RESTful API와 연동하여 로그인 구현(완료) 
-### 3-2. 후기 작성간 첨부된 사진을 데이터베이스에 저장하여, 후기 페이지에서 썸네일로 출력(완료)
-### 3-3. 예약하기 버튼 클릭시 모달 대신 결제시스템 API 연동(완료)
+### 3-1. 각종 SNS RESTful API와 연동하여 로그인 구현(완료👌) 
+### 3-2. 후기 작성간 첨부된 사진을 데이터베이스에 저장하여, 후기 페이지에서 썸네일로 출력(완료👌)
+### 3-3. 예약하기 버튼 클릭시 모달 대신 결제시스템 API 연동(완료👌)
 ### 3-4. 관리자 페이지 구현을 통한 예약 및 문의사항 관리
