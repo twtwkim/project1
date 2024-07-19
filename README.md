@@ -8,7 +8,7 @@ React(vite)를 활용한 프로젝트입니다.
 
 ✨작업 기간: 2024. 05 ~ 2024. 07 (2개월)
 
-✨인력 구성: 1명
+✨인력 구성: 1명☝️
 
 ✨프로젝트 목적: 개인 프로젝트로 React 사용 경험 및 백엔드 서버 구현 능력 향상
 
@@ -31,28 +31,33 @@ React(vite)를 활용한 프로젝트입니다.
 https://github.com/user-attachments/assets/03e08d2e-378c-4380-b3dd-ca4abb26ae69
 
 ### 2-2. /register (회원등록)
-https://github.com/twtwkim/project.React/assets/160206273/badfd426-f8c5-4e37-9fa2-be46f4c00a70
+https://github.com/user-attachments/assets/75ca9bfe-57f4-438a-8f86-a74caf38de92
 
-### 2-3. /login (로그인, 로그아웃)
-https://github.com/twtwkim/project.React/assets/160206273/29e1aa52-2bb0-476f-b20d-206d2899181e
+### 2-3. /login (로그인, 로그아웃, 카카오 로그인)
+https://github.com/user-attachments/assets/2b237865-ccff-48b3-a880-0005e71796d9
+https://github.com/user-attachments/assets/48208fd0-490e-4d02-810f-0c03953be469
 
 ### 2-4. /content (상품 안내 페이지)
-https://github.com/twtwkim/project.React/assets/160206273/e8553faf-d676-4534-9cab-c370dbc0f464
+https://github.com/user-attachments/assets/223cfcca-5ebf-43ed-ad09-903c2c347cb4
 
 ### 2-5. /detail (상품별 세부 내용)
-https://github.com/twtwkim/project.React/assets/160206273/c7aa1226-ad88-487f-9d04-b649f8c3fefc
+https://github.com/user-attachments/assets/dd068235-7da7-4803-b888-8ce0baa18653
 
-### 2-6. /review (후기 페이지)
-https://github.com/twtwkim/project.React/assets/160206273/c6c2b89a-9a45-4e01-b0eb-725a2840ef15
+### 2-6. /reservation (예약 및 결제)
+https://github.com/user-attachments/assets/36c6c6e2-64d4-4fcc-9895-f3da3d702b83
 
-### 2-7. /write (후기 작성, 수정, 삭제)
-https://github.com/twtwkim/project.React/assets/160206273/79f9af30-0c9b-4af4-a954-f5a1bc714028
+### 2-7. /review (후기 페이지)
+https://github.com/user-attachments/assets/e4c198eb-473a-436f-bda8-0aee7105edc4
 
-### 2-8. /brand (브랜드 소개 페이지)
-https://github.com/twtwkim/project.React/assets/160206273/eff0a5f1-f8a0-40b5-a632-783568873fc2
+### 2-8. /write (후기 작성, 수정, 삭제)
+https://github.com/user-attachments/assets/45c747f6-5e21-48f5-9e56-05322235a46c
+https://github.com/user-attachments/assets/27cfa600-0057-4584-8497-0280ecdffb4d
 
-### 2-9. /customer (고객 문의 접수 페이지)
-https://github.com/twtwkim/project.React/assets/160206273/16480e02-72ff-4f25-b5b9-d4df050af822
+### 2-9. /brand (브랜드 소개 페이지)
+https://github.com/user-attachments/assets/edd0334d-d503-4a99-a406-76a336e10ad6
+
+### 2-10. /customer (고객 문의 접수 페이지)
+https://github.com/user-attachments/assets/ebb02b40-453c-447b-a510-f157d8ab36c1
 
 ## 3. Future Improvements
 ### 3-1. 각종 SNS RESTful API와 연동하여 로그인 구현(완료👌) 
