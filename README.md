@@ -35,6 +35,7 @@ https://github.com/user-attachments/assets/75ca9bfe-57f4-438a-8f86-a74caf38de92
 
 ### 2-3. /login (로그인, 로그아웃, 카카오 로그인)
 https://github.com/user-attachments/assets/2b237865-ccff-48b3-a880-0005e71796d9
+
 https://github.com/user-attachments/assets/48208fd0-490e-4d02-810f-0c03953be469
 
 ### 2-4. /content (상품 안내 페이지)
@@ -51,6 +52,7 @@ https://github.com/user-attachments/assets/e4c198eb-473a-436f-bda8-0aee7105edc4
 
 ### 2-8. /write (후기 작성, 수정, 삭제)
 https://github.com/user-attachments/assets/45c747f6-5e21-48f5-9e56-05322235a46c
+
 https://github.com/user-attachments/assets/27cfa600-0057-4584-8497-0280ecdffb4d
 
 ### 2-9. /brand (브랜드 소개 페이지)
