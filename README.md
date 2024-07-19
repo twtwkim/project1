@@ -2,7 +2,7 @@
 
 React(vite)를 활용한 프로젝트입니다.  
 
-🖱🖱<[포트폴리오.pdf 다운](https://github.com/user-attachments/files/15910524/default.pdf)>
+🖱🖱<[포트폴리오.pdf 다운](https://github.com/user-attachments/files/16301106/ver.240719.pdf)>
 
 ## 1. Introduce Project
 
